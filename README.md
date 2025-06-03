@@ -1,4 +1,4 @@
-# PUCFLIX 3.0 - Sistema de Gerenciamento de Séries de TV
+# 🤖PUCFLIX 3.0 - Sistema de Gerenciamento de Séries de TV
 
 ## Integrantes: Arthur Signorini, Bernardo Rocha, Laura Persilva e Otávio Augusto
 
